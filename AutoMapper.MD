@@ -23,7 +23,7 @@ AutoMapper 是个数据映射类库，具本作用如下：
 
 文档 [Docs](https://docs.automapper.org/en/stable/)
 
-版本：v9.0.0
+版本 v9.0.0
 
 # 使用
 
